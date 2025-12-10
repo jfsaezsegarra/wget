@@ -1,0 +1,576 @@
+Tipos de Archivo
+Podemos dividir los archivos en  dos grandes grupos  . Por un lado, los elementos que son ejecutables y, por el otro,
+aquellos que no lo son, los archivos de datos. La diferencia fundamental entre ellos es que los primeros están creados
+para funcionar por sí mismos y los segundos almacenan información que tendrá que ser utilizada con ayuda de algún
+programa.
+De todos los modos, la mayoría de los programas  llevan otros archivos que resultan necesarios aparte del
+ejecutable  . Estos archivos adjuntos que requieren los programas son necesarios para su buen funcionamiento. Y,
+aunque puedan tener formatos distintos, no pueden ser separados de su programa original. O al menos no
+debemos hacerlo, si queremos que siga funcionando bien.
+Dentro de los tipos de archivos de datos se pueden crear grupos, especialmente por la temática o clase de
+información que guardan. Como es la forma más sencilla de conocer todas las extensiones, así lo haremos en esta
+guía.
+De momento, aquí tienes un listado con los tipos de archivo más comunes:
+
+Texto: txt, md, rtf…
+Ofimática: docx, xlsx, pptx, odt, ods, odp…
+Imagen: jpg, gif, bmp, png, heic, webp…
+Vídeo: avi, mov, mp4, mpeg, wmv…
+Ejecución del sistema: exe, bat, dll, sys…
+Audio: mp3, aac, ogg, wav, wma…
+Archivo comprimido: zip, rar, tar…
+Lectura: pdf, epub, azw, ibook…
+Imagen de disco: iso, mds, img…
+Nomenclatura de los Archivos
+Antes de conocer las  extensiones más habituales  en entornos Windows (también en macOS y Linux), debemos
+hacer una breve aclaración sobre cómo hemos estructurado los listados.
+Todos los formatos de archivo o extensiones  están escritos en mayúsculas al inicio de cada punto . A su derecha, y
+justo después de los dos puntos, encontrarás una breve explicación o bien los programas recomendados para su
+uso.
+Al final de cada apartado, hemos agregado  algunas notas relevantes  que consideramos que deberías tener en
+cuenta. Muchas de ellas están relacionadas con la popularidad de algunos archivos o con detalles curiosos que
+merece la pena conocer.
+Extensiones y Tipos de Archivos del Sistema
+Los archivos del sistema son aquellos que son necesarios para el funcionamiento interno del sistema operativo, así
+como de los diferentes programas que trabajan en él.  No te  recomendamos moverlos, editarlos o modificarlos
+de ningún modo , ya que pueden que cualquier cambio puede tener un efecto profundo en el funcionamiento del
+equipo.
+
+386: Controlador de dispositivo virtual
+ACA: Microsoft Agent Character
+ACG: Vista previa de Microsoft Agent
+ACS: Microsoft Agent Character
+ACW: Configuración del asistente de Accesibilidad
+ANI: Cursor animado
+BAT: Archivo por lotes MS-DOS
+BFC: Maletín
+BKF: Copia de seguridad de Windows
+BLG: Monitor del sistema
+CAT: Catálogo de seguridad
+CER: Certificado de seguridad
+CFG: Configuraciones
+CHK: Fragmentos de archivos recuperados
+CHM: Ayuda HTML compilado
+CLP: Clip de Portapapeles
+CMD: Secuencia de comandos de Windows NT
+CNF: Velocidad de marcado
+COM: Aplicación MS-DOS
+CPL: Extensión del Panel de control
+CRL: Lista de revocaciones de certificados
+CRT: Certificado de seguridad
+CUR: Cursor
+
+DAT: Base de Datos
+DB: Base de datos
+DER: Certificado de seguridad
+DLL: Librería, extensión de aplicación
+DRV: Controlador de dispositivo
+DS: TWAIN Data Source file
+DSN: Nombre del origen de datos
+DUN: Acceso telefónico de red
+EXE: Aplicación
+FND: Búsqueda guardada
+FNG: Grupo de fuentes
+FOLDER: Carpeta
+FON: Fuente
+GRP: Grupo de programas de Microsoft
+HLP: Ayuda
+HT: HyperTerminal
+INF: Información de instalación
+INI: Opciones de configuración
+INS: Configuración de comunicaciones de Internet
+ISP: Configuración de comunicaciones de Internet
+JOB: Objeto de tarea
+KEY: Entradas de registro
+LNK: Acceso directo
+
+MSC: Documento de la consola común de Microsoft
+MSI: Paquete de Windows Installer
+MSP: Revisión de Windows Installer
+MSSTYLES: Estilo visual de Windows
+NFO: MSInfo
+OCX: Control ActiveX
+OTF: Fuente OpenType
+P7C: Identificador digital
+PFM: Fuente Type 1
+PIF: Acceso directo a programa MS-DOS
+PKO: Objeto de seguridad de claves públicas
+PMA: Archivo del Monitor de sistema
+PMC: Archivo del Monitor de sistema
+PML: Archivo del Monitor de sistema
+PMR: Archivo del Monitor de sistema
+PMW: Archivo del Monitor de sistema
+PNF: Información de instalación precompilada
+PSW: Password Backup
+QDS: Directorio de consulta
+RDP: Conexión a Escritorio remoto
+REG: Entradas de registro
+SCF: Windows Explorer Command
+SCR: Protector de pantalla
+
+SCT: Windows Script Component
+SHB: Acceso directo a documento
+SHS: Recorte
+SYS: Archivo de sistema
+THEME: Tema de Windows
+TMP: Archivo temporal
+TTC: Fuente True Type
+TTF: Fuente TrueType
+UDL: Vínculos a datos
+VXD: Controlador de dispositivo virtual
+WAB: Libreta de direcciones
+WMDB: Biblioteca multimedia
+WME: Windows Media Encoder Session
+WSC: Windows Script Component
+WSF: Windows Script File
+WSH: Windows Script Host Settings File
+ZAP: Configuración de instalación de software
+Extensiones y Tipos de Archivos de Audio
+Los archivos de audio  son todos los que contienen sonidos (no solo música). Las diferentes extensiones de estos
+tipos de archivos atienden al formato de compresión utilizado para convertir el sonido real en digital. La mayoría de
+ellos se pueden abrir con VLC, pero también con otros reproductores compatibles:
+669: Módulo UNIS Compositor 669
+
+AA: Formato de Amazon Audible. Audiolibros con DRM, aunque con codificación en MP3
+AAC: Contenedor de audio en alta resolución. VLC
+AIF: Formato de archivo de intercambio de audio
+AIFC: Formato de archivo de intercambio de audio
+AIFF: Formato de archivo de intercambio de audio
+AMF: Archivo de audio en formato de música de asilo
+ASF: Archivo de formato de sistemas avanzados
+AU: Proyecto de Audacity
+AUDIOCD: Pista de audio de CD
+CDA: Pista de audio de CD
+CDDA: Archivo de audio digital CD (iTunes)
+FAR: Archivo de Farandole Composer
+FLAC: Archivo sin compresión
+IT: Módulo de seguimiento de impulsos
+ITZ: Módulo Tracker para Amiga y PC
+LWV: Microsoft Linguistically Enhanced Sound File
+MID: Interfaz digital MIDI
+MIDI: Interfaz digital MIDI
+MIZ: Archivo MIDI comprimido de Winamp
+MP1: Archivo de audio MPEG-1
+MP2: Archivo de audio comprimido MPEG Layer II
+MP3:  Archivo de audio comprimido MPEG Layer III
+MTM: MultiTracker Module
+
+OGG: Audio Ogg Vorbis
+OGM: Variante del OGG.
+OKT: Módulo Oktalyzer
+OPUS: Habitual en las notas de voz de WhatsApp
+RA: Real Audio
+RMI: Archivo MIDI RMID
+SND: Archivo de sonido
+STM: Módulo Scream Tracker 2
+STZ: Archivo de audio
+ULT: Módulo UltraTracker
+VOC: Archivo de Creative Labs
+WAV: Audio sin compresión. VLC
+WAX: Acceso directo de audio de Windows Media
+WEBM: Formato de vídeo para la web desarrollado por Google.
+WM: Windows Media
+WMA: Audio de Windows Media
+WMV: Video de Windows Media
+XM: Módulo extendido FastTracker 2
+XMZ: Módulo extendido FastTracker 2
+Con respecto a estos formatos, aquí van algunos apuntes interesantes:
+MP3. En el pasado fue uno de los formatos más extendidos para la compresión de música en Internet. Su alta
+calidad lograda en su pequeño tamaño lo hizo el favorito de la mayoría de los usuarios para comprimir su música
+y compartirla en red. En la actualidad, tras la normalización de las plataformas de streaming, los formatos se han
+diversificado y cada compañía emplea uno distinto.
+
+OGG. Este formato es totalmente abierto y libre de patentes. Tan profesional y de calidad como cualquier otro,
+pero con todos los valores del movimiento Open Source. Por cierto, es utilizado por algunos servicios muy
+conocidos de streaming, como Spotify.
+Extensiones y Tipos de Archivos de Vídeo
+Los formatos de vídeo  no solo contienen imágenes, sino también el sonido que las acompaña. Es bastante habitual
+que al intentar visualizar un vídeo no podamos ver la imagen, aunque sí oímos el sonido. Esto es debido a que el
+formato de compresión utilizado en ellos puede no ser reconocido por nuestro ordenador, por ello siempre se ha de
+tener actualizados los codecs de cada uno de los formatos o utilizar reproductores con los que no haya mucho
+
+problema en este sentido, como VLC.
+3GP: Archivo multimedia 3GPP
+ASF: Archivo de formato de sistemas avanzados
+AVI: Archivo de intercalación de audio y vídeo
+AVCHD: Utilizado por algunas cámaras de vídeo y enfocado al mundo profesional. Se abre con VLC, previa
+conversión.
+BIK: Bink Video File
+DIV: Archivo de proyecto DIVA-GIS
+DIVX: VLC
+DVD: PowerDVD
+FLV: Formato de vídeo para reproductores Flash, ya en desuso.
+IVF: Indeo
+TOD: Archivo de captura de vídeo JVC Everio
+M1V: MPEG
+MKV: Contenedor Matroska que puede contener vídeo o audio codificado con cualquier códec.
+MOV: Película de QuickTime
+MOVIE: MPEG
+MP2V: MPEG
+MP4: MPEG
+MPA: MPEG
+MPE: MPEG
+MPEG: MPEG
+MPG: MPEG
+
+MPV2: MPEG
+QT: Archivo de QuickTime
+QTL: Archivo de QuickTime
+RPM: RealPlayer
+SMK: RAD Video Tools
+WM: Archivo de Windows Media
+WMV: Vídeo Windows Media
+WOB: PowerDVD
+Ten en cuenta lo siguiente con respecto a estas extensiones:
+AVI. En la época dorada de las redes P2P, este fue el tipo de archivo de vídeo más extendido en Internet. En su
+momento, lograba ofrecer bastante calidad y, al mismo tiempo, un tamaño reducido. Poco a poco fue sustituido
+por MKV, un contenido compatible con vídeos de mayor calidad, y el MP4.
+MOV. Es el formato preferido de los dispositivos Apple. En el pasado, era complicado reproducirlo fuera de su
+ecosistema. Hoy en día, la mayoría de los reproductores, incluidos los integrados en cada sistema, son
+compatibles con él.
+MPEG. Son las siglas de "Moving Pictures Experts Group". Este archivos también se encuentra como MPG
+Extensiones y Tipos de Archivos Comprimidos
+Los formatos de compresión  son de gran utilidad a la hora del almacenamiento de información, ya que hacen que
+esta ocupe el menor espacio posible y que se puedan reunir muchos ficheros en uno solo.
+7Z: 7Zip
+ACE: WinACE
+ARJ: WinARJ
+APK: Paquete de aplicación de Android
+
+BZ: IZarc / WinRAR
+BZ2: IZarc / WinRAR
+DMG: Disco de imagen de macOS
+CAB: CAB Station
+GZ: IZarc / WinRAR
+HA: IZarc / WinRAR
+ISO: WinRAR
+LHA: IZarc / WinRAR
+LZH: IZarc / WinRAR
+R00: WinRAR
+R01: WinRAR
+R02: WinRAR
+R03: WinRAR
+R0...: WinRAR
+RAR: WinRAR
+REV: WinRAR. Archivo de recuperación de volumen
+TAR: IZarc / WinRAR
+TBZ: IZarc / WinRAR
+TBZ2: WinRAR
+TGZ: IZarc / WinRAR
+UU: WinCode / WinRAR
+UUE: IZarc / WinRAR
+XXE: IZarc / WinRAR
+
+ZIP: WinZIP
+ZOO: IZarc
+Y, después del listado, aquí van algunos apuntes sobre los formatos de compresión:
+7Z. Formato propio de 7Zip. Este programa, de código abierto, es compatible con la mayoría de los formatos
+mencionados anteriormente. Se trata de una alternativa muy recomendable WinRAR y WinZIP.
+RAR. Formato de compresión muy efectivo. Cuenta con uno de los mejores programas de compresión/
+descompresión, WinRAR, siendo capaz de soportar prácticamente todos los formatos, no solo el propio. Las
+extensiones R00, R01, R02... pertenecen también a este formato cuando el comprimido se divide en varias partes.
+Actualmente, el Explorador de archivos de Windows le da soporte nativo.
+ZIP. Este formato es casi un estándar. No solo está soportado por la amplia mayoría de los programas extractores,
+sino por los principales sistemas operativos. Por ejemplo, puedes descomprimir y comprimir en ZIP directamente
+desde el Explorador de archivos de Windows o con la app Archivos de iOS, por poner tan solo dos ejemplos.
+Extensiones y Tipos de Archivos de Imagen
+Poco hay que decir de las imágenes y de sus tipos de archivo salvo que cada uno de ellos utiliza un método de
+representación y que algunos ofrecen mayor calidad que otros. También cabe destacar que  muchos programas de
+edición gráfica utilizan sus propios formatos de trabajo con imágenes . Aunque en el listado te hablamos de
+visores específicos, recuerda que la mayoría de estos archivos pueden abrirse con Fotos de Windows, Paint o Vista
+Previa, este último disponible en macOS.
+AIS: ACDSee Secuencias de imagen
+BMP: Mapa de bits
+BW: Archivo de imagen SGI en blanco y negro
+CDR: CorelDRAW
+CDT: CorelDRAW
+CGM: CorelDRAW
+CMX: CorelDRAW Exchange Graphic
+
+CPT: Corel PHOTO-PAINT
+CR2: Ver RAW
+DCX: Archivo de pincel de varias páginas de Zsoft
+DIB: Imagen de mapa de bits independiente del dispositivo
+DNG: Negativo digital sin procesar. XnView / ACDSee
+EMF: Metarchivo de Windows mejorado
+GBR: Archivo de pincel GIMP
+GIF: Archivo de formato de intercambio gráfico
+GIH: Archivo de manguera de imagen GIMP
+HEIC: Formato de alta eficiencia, utilizado principalmente por dispositivos Apple
+ICO: Icono
+IFF: Formato de archivo de intercambio
+ILBM: Imagen de mapa de bits entrelazada
+JFIF: Formato de intercambio de archivos JPEG
+JIF: Imagen en formato de intercambio JPEG
+JPE: Imagen JPEG
+JPEG: Imagen JPEG
+JPG: Imagen JPEG
+KDC: Archivo potenciador de fotografías Kodak
+LBM: Imagen de mapa de bits de pintura de lujo
+MAC: MacPaint
+PAT: Archivo de patrón de sombreado de AutoCAD
+PCD: Imagen de CD fotográfico Kodak
+
+PCT: Archivo de imagen
+PCX: Archivo de imagen
+PIC: Archivo de imagen
+PICT: Archivo de imagen
+PNG: Gráfico de red portátil
+PNTG: MacPaint
+PIX: Archivo de base de datos de geomática PCI
+PSD: Adobe Photoshop
+PSP: Paint Shop Pro
+QTI: Archivo de QuickTime
+QTIF: Archivo de QuickTime
+RGB: Mapa de bits RGBA
+RGBA: Mapa de bits RGBA
+RIF: Imagen rasterizada de Painter
+RLE: Mapa de bits codificado de longitud de ejecución
+RAW: Negativo digital. Imagen cruda, sin procesar
+SGI: Imagen gráfica de silicio
+TGA: Gráfico Targa
+TIF: Formato de archivo de imagen etiquetado
+TIFF: Formato de archivo de imagen etiquetado
+WEBP: Imagen para la web
+WMF: Metarchivo de Windows
+XCF: Archivo de Gimp
+
+Aquí tienes algunas aclaraciones con respecto a estos formatos:
+PSD. Formato propio de Photoshop para sus proyectos. Se puede abrir con otras apps, como GIMP. Es común
+encontrar este tipo de archivo en Internet cuando se comparten proyectos editables, como mockups.
+BMP. Extensión que prácticamente ha acabado en desuso. Muy popular en proyectos de Microsoft Paint, pero
+con un tamaño tan exagerado que se volvió poco recomendable en la era de Internet.
+GIF. Este formato cuenta con características que lo hacen ideal para el uso en páginas web, como es la posibilidad
+de darle un fondo transparente o insertar movimiento.
+JPEG. También se le ve como JPE y sobre todo como JPG es uno de los más extendidos, por su compresión y
+calidad. Se usa mucho en la fotografía.
+RAW. Estos archivos también han ganado en popularidad, pues ahora pueden sacarse fotografías en forma de
+negativo digital desde los móviles de gama alta.
+WEBP. Un formato que pretende sustituir al JPG en Internet con una eficiencia muy superior.
+PNG. Muy utilizado en Internet para logotipos, pues admiten transparencias.
+SVG Archivo de imagen vectorial. Permite ampliar la imagen tanto como se desee sin perder calidad. Esto es
+posible porque la composición se efectúa mediante puntos de anclaje (vectores) y no un mapa de bits. No se usa
+mucho en la red, pero sí a la hora de compartir logotipos y dibujos que deben ser escalables.
+Extensiones y Tipos de Archivos de Texto
+
+Dentro de los documentos de texto  hemos de diferenciar entre el texto plano y el enriquecido. Es decir, entre los
+formatos que sencillamente guardan caracteres, como el TXT o MD, y los que podemos modificar el tamaño, la
+fuente o el color de la tipografía, como el DOCX o el RTF.
+DIC: Archivo de diccionario. Se usa en Windows y Microsoft Word
+DOCX (antes, DOC): Microsoft Word
+DIZ: Bloc de notas
+DOCHTML: HTML de Microsoft Word
+EXC: Bloc de notas
+GDOC: archivo de Google Docs.
+IDX: Bloc de notas
+LOG: Bloc de notas
+PAGES: Documento de texto de iWork
+PDF: Adobe Acrobat
+RTF: Microsoft Word
+
+SCP: Bloc de notas
+TXT: Bloc de notas
+MD: Archivo de Markdown. Bloc de notas / Obsidian
+WRI: Write
+WTX: Bloc de notas
+Aquí tienes algunas notas con respecto a estos ficheros:
+DOCX. Documento de texto enriquecido (posibilidad de asignarle formato a las letras). Está especialmente
+extendido por ser el habitual de uno de los programas más utilizados, Microsoft Word. Antes su formato era DOC,
+pero desde hace tiempo se generalizó DOCX.
+MD. Es un formato que se le da a los archivos de texto plano (idénticos al TXT) que utilizan el lenguaje Markdown
+para aplicar formato al texto. Con el programa adecuado, un archivo MD pasa de ser un archivo de texto plano a
+uno con formato.
+TXT. Formato de texto plano, habitual para registros.
+PAGES. Un formato poco recomendable, porque solo es compatible con Pages de Apple, un software que no
+dispone de versión para Windows.
+GDOC. Como se trata de un editor en línea, estos archivos solo aparecen cuando se utiliza Google Drive para
+ordenadores. Actúan como una especie de acceso directo al archivo, que se abre en el navegador. Esto significa
+que, si lo copias con el explorador a otro soporte, el archivo no será válido.
+Otras Extensiones de Archivo
+Para terminar, hacemos un repaso de otras extensiones importantes en el pasado y en la actualidad. De hecho,
+muchas de ellas  pertenecen a programas destacados  que todavía son ampliamente utilizados en el mercado
+informático actual.
+Imágenes de CD
+Para guardar en un archivo único lo incluido dentro de un CD o DVD  se utilizan las llamadas  imágenes de disco .
+
+Su nombre se debe a que son una clonación de la estructura del disco, aunque en esencia funcionan  de forma
+similar a un archivo comprimido , especialmente cuando estos actúan a modo de contenedores.
+MDS: Archivo de Media Descriptor Sidecar
+CCD: Archivo de control de CD clonado
+CUE: Hoja de referencia CDRWIN
+ISO: Archivo de imagen de disco. Compatible con el Explorador de Windows
+BTW: Etiqueta BarTender
+CDI: Imagen de disco de DiscJuggler
+IMG: Archivo de datos de imagen de disco
+Máquinas virtuales
+Cuando creas una  máquina virtual con VirtualBox  (u otro programa similar), hay una serie de archivos que son
+necesarios. Aquí va una lista de los más relevantes:
+VBOX: Archivo de configuración de la máquina virtual en Oracle VM VirtualBox
+VDI: Imagen de disco de VirtualBox
+VHD: Disco duro virtual para máquinas virtuales (utilizado principalmente en VirtualBox)
+VMDK: Archivo de disco de máquinas virtuales (utilizado principalmente en VMWare)
+NVRAM: Archivo de NVRAM de VMware
+VMC: Archivo de configuración de máquinas virtuales en Windows
+Nero Suite
+Nero fue una  suite legendaria para grabar CD y DVD . También contaba con múltiples herramientas de extracción
+de datos y clonación de discos. Aquí tienes algunas de sus extensiones más conocidas:
+NRA: Nero: CD audio
+NRB: Nero: CD-ROM arranque
+
+NRE: Nero: CD EXTRA
+NRG: Ahead Nero
+NRH: Nero: CD-ROM híbrido
+NRI: Nero: CD-ROM ISO
+NRM: Nero: CD mixto
+NRU: Nero: CD-ROM UDF
+NRV: Nero: CD supervídeo
+CDC: Nero CD Cover
+Adobe
+PSD: Adobe Photoshop (mencionada en la sección de extensiones de imagen)
+AI: Adobe Illustrator
+INDD: Adobe InDesign
+Serif Affinity
+AFPHOTO: Proyecto de Affinity Photo
+AFDESIGN: Proyecto de Affinity Designer
+OpenOffice / LibreOffice
+ODT: Texto. Se abre con OpenOffice / LibreOffice Writer
+OTT: Plantilla de texto. Se abre con OpenOffice / LibreOffice Writer
+ODM: Documento maestro. Se abre con OpenOffice / LibreOffice Writer
+ODS: Hoja de cálculo. Se abre con OpenOffice / LibreOffice Calc
+OTS: Plantilla de hoja de cálculo. Se abre con OpenOffice / LibreOffice Calc
+
+ODG: Dibujo. Se abre con OpenOffice / LibreOffice Draw
+OTG: Plantilla de dibujo. Se abre con OpenOffice / LibreOffice Draw
+ODP: Presentación. Se abre con OpenOffice / LibreOffice Impress
+OTP: Plantilla de presentación. Se abre con OpenOffice / LibreOffice Impress
+ODF: Fórmula. Se abre con OpenOffice / LibreOffice Math
+ODC: Gráfico. Se abre con OpenOffice / LibreOffice Chart
+ODB: Base de datos. Se abre con OpenOffice / LibreOffice Base
+Las extensiones antiguas de OpenOffice, antes de que naciera el formato OpenDocument en 2005 (listado anterior),
+eran las siguientes:
+SDA: Dibujo
+SDC: Hoja de cálculo
+SDD: Presentación
+SDS: Diagrama
+SDW: Texto
+SFS: Frame
+SGL: Documento maestro
+SMD: Mail Document
+SMF: Fórmula
+STC: Plantilla de hoja de cálculo
+STD: Plantilla de dibujo
+STI: Plantilla de presentación
+STW: Plantilla de texto
+SXC: Hoja de cálculo
+
+SXD: Dibujo
+SXG: Documento maestro
+SXI: Presentación
+SXM: Fórmula
+SXW: Texto
+VOR: Plantilla
+Quicktime
+QPX: Player Plugin
+QTP: Preferences
+QTS: QuickTime
+QTX: Extension
+QUP: Update Package
+Power Point
+POT: Plantilla
+POTHTML: Plantilla HTML
+PPA: Complemento
+PPS: Presentación
+PPTX (antes, PPT): Presentación
+PPTHTML: Documento HTML
+Word
+DOCX (antes DOC): Archivo de Word
+
+DOT: Plantilla de Microsoft Word
+DOTHTML: Plantilla HTML de Microsoft Word
+WBK: Copia de seguridad de Microsoft Word
+WIZ: Asistente para Microsoft Word
+Excel
+CSV: Archivo de valores separados por comas
+DIF: Formato de intercambio de datos
+DQY: Archivos de consulta ODBC
+XLA: Complemento
+XLB: Hoja de cálculo
+XLC: Gráfico
+XLD: Hoja de cuadros de diálogo
+XLK: Archivo de copia de seguridad
+XLL: Complemento XLL
+XLM: Macro
+XLSX (antes XLS): Hoja de cálculo
+XLSHTML: Documento HTML
+XLT: Plantilla
+XLTHTML: Plantilla HTML
+XLV: Módulo VBA
+XLW: Área de trabajo
+Windows Media 
+
+ASX: Lista de reproducción de audio o vídeo
+WMP: Archivo del Reproductor
+WMS: Archivo de máscara
+WMX: Lista de reproducción de audio o vídeo
+WMZ: Paquete de máscaras
+WPL: Lista de reproducción
+WVX: Lista de reproducción de audio o vídeo
+MSN Messenger
+CTT: Lista de contactos
+Yahoo Messenger
+YMG: Messenger Class
+YPS: Messenger Class
+WhatsApp
+CRYPT12: Base de datos de WhatsApp encriptada
+CRYPT15: Base de datos de WhatsApp encriptada
+CRYPTXX: Base de datos de WhatsApp encriptada (las X se cambian por números a medida que se lanzan nuevas
+versiones).
+WASTICKERS: Paquete de stickers
+Internet
+ASP: Active Server Pages
+CSS: Documento de hoja de estilos en cascada
+
+EML: Outlook / Thunderbird
+HTA: HTML Aplicacion
+HTM: HTML Documento
+HTML: HTML Documento
+HTT: Plantilla de hipertexto
+JS: JScript Script File
+JSE: JScript Encoded Script File
+JSP: Archivo JSP
+MBOX: Buzón de correo electrónico exportado
+MBX: Buzón de Outlook Express
+MHT: MHTML Documento
+MHTML: MHTML Documento
+MSG: Mensaje de correo electrónico
+NWS: News Mensaje
+OMPL: Lista de suscripciones RSS (también para otros servicios). En esencia, es un XML con otra extensión
+PHP: Personal Home Page
+RSS: Feed de Internet
+SHTM: Archivo SHTM
+URL: HTML Documento
+VCF: vCard o tarjeta de contacto
+VCS: vCalendar o evento de calendario
+XML: HTML Documento
+XSL: Hoja de estilos XSL
+
+Otros
+BIN: Binario
+C: C
+CRDOWNLOAD: Archivo Chrome parcialmente descargado
+CLASS: Java
+CNF: Archivo de configuración MySQL
+CPP: C
+CRX: Extensión para Chrome y otros navegadores Chromium
+GPX: Archivo de intercambio de GPS
+JAVA: Java
+KML: XML diseñado para crear mapas personalizados, con elementos, rutas y más. Se abre con apps cartográficas,
+como Organic Maps o Google My Maps
+KMZ: Paquete que incluye varios KML. Se abre con apps cartográficas, como Organic Maps o Google My Maps
+M3U: Lista de medios. VLC
+MAX: 3D Studio Max
+SPL: Shockwave Flash Object
+SQL: Archivo de datos de lenguaje de consulta estructurado
+SWF: Shockwave Flash Object
+VBS: Visual Basic Script
+XPI: Extensión para Mozilla Firefox
